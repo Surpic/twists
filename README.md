@@ -1,3 +1,3 @@
 # twists
 
-<a href="https://www.twists.com/">Twists</a>.
+<a href="https://www.twists.com/">Twists</a>
